@@ -11,7 +11,7 @@
 9. [Зыков Максим](https://github.com/Maximizer07/python-practice)
 10. [Иванцов Михаил](https://github.com/Mike-Like11/python-practice)
 11. [Иноземцев Никита](https://github.com/NikitaInozemtsev/python-practice)
-12. [Кузин Данил](https://github.com/Shambonik/python-practice)
+12. [Кузин Данил](https://github.com/Shambonik/Python)
 13. [Ладыгин Сергей](https://github.com/Drennout/python-practice)
 14. [Леутина Таисия](https://github.com/mournfulCoroner/python-practice)
 15. [Львов Тинлей](https://github.com/kamabulletone/python-practice)
